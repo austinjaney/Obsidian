@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
+            "file": "North Coast/Accomplishments@NorthCoast 2.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#powershell",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
+                "file": "North Coast/Accomplishments@NorthCoast 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e8690766aa2367bc",
   "lastOpenFiles": [
-    "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
-    "Microsoft/Changing Default AD OUs.md",
-    "Microsoft/Change the UPN of all users in an OU.md",
-    "Microsoft/Automatic Windows Logon-iMac.md",
-    "Microsoft/Automatic Windows Logon.md",
-    "Microsoft/Automatic L2TP Connection.md",
-    "macOS/Hide a user account in macOS.md",
-    "macOS/Create macOS USB Boot Drives.md",
-    "macOS/Change MAC Address macOS.md",
-    "macOS/Activate the TFTP Server on macOS.md"
+    "North Coast/Accomplishments@NorthCoast 2.md",
+    "North Coast/1903 Deployment Process.md",
+    "North Coast/Proposed Standards/RFC2 Naming Network Equipment.md",
+    "North Coast/Proposed Standards/RFC1 North Coast IT Team Documentation.md",
+    "North Coast/5520 WLC/October 15 WLC Outage.md",
+    "Linux/Netplan Examples.md",
+    "Linux/Managing SSH Keys.md",
+    "Linux/Install only security updates for Ubuntu.md",
+    "Linux/How to Install DokuWiki on CentOS 7.md",
+    "Microsoft/Reconnect an exchange mailbox.md"
   ]
 }

@@ -1,7 +1,7 @@
 # Reconnect an exchange mailbox
 #sysadmin #exchange #powershell 
 
-In Exchange powershell to enable or reconnect a recently disabled mailbox to its user run the following command
+In Exchange PowerShell to enable or reconnect a recently disabled mailbox to its user run the following command.
 
 ```powershell
 Connect-Mailbox -Identity "User Name" -Database EX13GeneralUser -User "User Name" -Alias uname

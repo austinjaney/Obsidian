@@ -6,12 +6,12 @@
 2. Building number If multi-building campus
 3. MDF or IDF Name If multi-idf building
 4. Type of Switch (Core, CoreStack Access, AccessStack)
-5. Switch Posistion If Access Switch (A, B, C, etc)
+5. Switch Position If Access Switch (A, B, C, etc)
 
 ## Banner Message
 1. Path to MDF
 2. What this switch serves, what goes down with this switch
-3. last update of banner message
+3. last update of the banner message
 
 ## Port Names
 > Cisco-
