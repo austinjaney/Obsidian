@@ -7,7 +7,7 @@ Install-Module MSOnline
 Install-Module AzureAD
 ```
 
-## Command to connect to microsoft online using modern auth
+## Command to connect to Microsoft online using modern auth
 
 ```powershell
 Connect-MsolService
@@ -18,7 +18,7 @@ Connect-MsolService
 Remove-MsolUser -UserPrincipalName ‘DemoUser5@Priasoft.mail.onmicrosoft.com’
 ```
 
-### Perminatly and Immediatly delete a user
+### Permanently and Immediately delete a user
 ```powershell
 Remove-MsolUser -UserPrincipalName ‘DemoUser5@Priasoft.mail.onmicrosoft.com’ -RemoveFromRecycleBin
 ```

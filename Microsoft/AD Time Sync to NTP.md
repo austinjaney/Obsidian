@@ -13,26 +13,26 @@ SpecialPollInterval: 3600
 EventLogFlags: 0
 ```
 
-GPO Filtering for primary domain controller
+GPO Filtering for the primary domain controller
 
 ```powershell
 Select * from Win32_ComputerSystem where DomainRole = 5
 ```
 > Enable NTP Client and Enable NTP Server should also be enabled
 
-Force non primary domain controlers to sync with the PDC:
+Force nonprimary domain controllers to sync with the PDC:
 
 ```powershell
 w32tm /config /syncfromflags:domhier /update
 ```
 
-If a domain controler is stuck and lists a previous PDC as its time server run:
+If a domain controller is stuck and lists a previous PDC as its time server run:
 
 ```powershell
 w32tm.exe /resync /rediscover
 ```
 
-### Troubleshooting Virutalized domain controllers
+### Troubleshooting Virtualized domain controllers
 
 Tell your virtualized Domain Controllers to ignore their Hyper-V host as a time source.
 

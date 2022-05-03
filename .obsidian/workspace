@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "a583dc89f17e851a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8690766aa2367bc",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57d1eb8c30e62fcf",
+    "type": "split",
+    "children": [
+      {
+        "id": "106ee4c347fea1b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ebb8e6de2fb5e47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "500b98ef28fa36de",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "705c3a3a01a1fd14",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab359d09c81eef02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a85c62ff72549475",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e8690766aa2367bc",
+  "lastOpenFiles": [
+    "Microsoft/Clear Previous or Duplicate Mailbox Info.md",
+    "Microsoft/Changing Default AD OUs.md",
+    "Microsoft/Change the UPN of all users in an OU.md",
+    "Microsoft/Automatic Windows Logon-iMac.md",
+    "Microsoft/Automatic Windows Logon.md",
+    "Microsoft/Automatic L2TP Connection.md",
+    "macOS/Hide a user account in macOS.md",
+    "macOS/Create macOS USB Boot Drives.md",
+    "macOS/Change MAC Address macOS.md",
+    "macOS/Activate the TFTP Server on macOS.md"
+  ]
+}
