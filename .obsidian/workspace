@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "North Coast/Accomplishments@NorthCoast 2.md",
+            "file": "Personal/Quotes.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 323
   },
   "right": {
     "id": "705c3a3a01a1fd14",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North Coast/Accomplishments@NorthCoast 2.md",
+                "file": "Personal/Quotes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e8690766aa2367bc",
   "lastOpenFiles": [
-    "North Coast/Accomplishments@NorthCoast 2.md",
-    "North Coast/1903 Deployment Process.md",
-    "North Coast/Proposed Standards/RFC2 Naming Network Equipment.md",
-    "North Coast/Proposed Standards/RFC1 North Coast IT Team Documentation.md",
-    "North Coast/5520 WLC/October 15 WLC Outage.md",
-    "Linux/Netplan Examples.md",
+    "Personal/Quotes.md",
+    "Personal/Email to Candy.md",
+    "Untitled.md",
+    "Linux/Creating LXD Snapshots.md",
     "Linux/Managing SSH Keys.md",
+    "Linux/Install Zulip in an LXD Container.md",
     "Linux/Install only security updates for Ubuntu.md",
     "Linux/How to Install DokuWiki on CentOS 7.md",
-    "Microsoft/Reconnect an exchange mailbox.md"
+    "Linux/Pushing Commands through SSH.md",
+    "Linux/Replacing Windows File Servers with CentOS7.md"
   ]
 }

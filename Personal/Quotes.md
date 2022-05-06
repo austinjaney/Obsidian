@@ -1,4 +1,4 @@
-# Quotes
+ckp# Quotes
 #personal
 
 > *We shall never have more time. We have, and have always had, all the time there is. No object is served in waiting until next week or even until tomorrow. Keep going day in and day out. Concentrate on something useful. Having decided to achieve a task, achieve it at all costs.*  
