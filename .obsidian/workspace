@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Quotes.md",
+            "file": "Linux/Creating LXD Snapshots.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Quotes.md",
+                "file": "Linux/Creating LXD Snapshots.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e8690766aa2367bc",
   "lastOpenFiles": [
-    "Personal/Quotes.md",
-    "Personal/Email to Candy.md",
-    "Untitled.md",
     "Linux/Creating LXD Snapshots.md",
-    "Linux/Managing SSH Keys.md",
-    "Linux/Install Zulip in an LXD Container.md",
-    "Linux/Install only security updates for Ubuntu.md",
     "Linux/How to Install DokuWiki on CentOS 7.md",
-    "Linux/Pushing Commands through SSH.md",
-    "Linux/Replacing Windows File Servers with CentOS7.md"
+    "Linux/Install only security updates for Ubuntu.md",
+    "Linux/Managing SSH Keys.md",
+    "Linux/The BTRFS CheatSheet.md",
+    "Linux/TMUX Cheat Sheet.md",
+    "Linux/Replacing Windows File Servers with CentOS7.md",
+    "Linux/Netplan Examples.md",
+    "Linux/Install Zulip in an LXD Container.md",
+    "ADP Time Clocks.md"
   ]
 }
